@@ -19,7 +19,10 @@ To get started with the project, follow these steps:
    git clone https://github.com/sid13-d/React-essentials.git
 ```
 
-Navigate to the project directory: cd 01-srarting-project
+Navigate to the project directory: 
+```bash
+   cd React-essentials
+```
 
 Install the dependencies:
 
